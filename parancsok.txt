@@ -1,0 +1,104 @@
+git config --global user.name “[name]”
+
+
+git config --global user.email “[email address]”
+
+
+git config --global color.ui auto
+
+
+git init
+
+
+git init [repository name]
+
+
+git clone [url]
+
+
+git add [file]
+
+
+git add *
+
+
+git add.
+
+
+git rm [file]
+
+
+git status
+
+
+git diff 
+
+
+git diff --staged 
+
+
+git commit -m “[commit message]”
+
+
+git commit -a
+
+
+git reset [file]
+
+
+git reset [commit]
+
+
+git reset --hard [commit]
+
+
+Bonus: Git commit saves your changes only locally.
+
+
+git branch
+
+
+git branch [branch name]
+
+
+git branch -d [branch name]
+
+
+git checkout [branch name]
+
+
+git checkout -b [branch name]
+
+
+git merge [branch name]
+
+
+git log
+
+
+git log -follow [file]
+
+
+git show [commit]
+
+
+git remote add [variable name] [URL]
+
+
+git push [variable name] [branch name]
+
+
+git push --set-upstream [variable name] [branch name]
+
+
+git push -u origin [branch name]
+
+
+git push [variable name] master
+
+
+git push -all [variable name]
+
+
+git pull [repository link]
+
