@@ -1,3 +1,4 @@
+
 git config --global user.name “[name]”
 
 
@@ -102,3 +103,20 @@ git push -all [variable name]
 
 git pull [repository link]
 
+Alap parancsok:
+  CD - change directory, avagy választani egy másik könyvtármappát.
+    Szintaxis: cd <mappa>
+     Példa: cd C:\Users\User\Desktop
+      Egy User nevű felhasználó asztali mappája
+    Példa 2: cd ..
+       Visszamenni egy mappát
+  ls - Mappa tartalmának listázása
+    Szintaxis: ls <mappa (opcionális)>
+      Tagek:
+        -a  :  All, vagyis összes (rejtettek, ponttal kezdődő fájlok)
+        -d  :  Csak a mappákat
+        -t  :  Rendezés módosítás dátuma szerint
+        -l  :  Hosszú listázási formátum
+  mkdir - Mappa létrehozása
+    Szintaxis: mkdir <mappanév>
+  exit - kilépés
