@@ -1,2 +1,2 @@
 # Git-Tutorial
-A git parancsok megismerése, a GitHubon! :D
+Célunk hogy az emberek egyszerűen megismerjék a git parancsokat, a GitHubon belül! :D
